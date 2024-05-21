@@ -44,6 +44,6 @@ Mention in the project that it uses Heretic Git Guidelines.
 
 ---
 
-This project is licensed under [WTFPL](http://wtfpl.net).
+This project is licensed under [WTFPL](http://wtfpl.net "Do What the Fuck You Want to Public License").
 
-This project follows the [HGG](https://catmeowbyte.github.io/heretic_git_guidelines).
+This project follows the [HGG](https://catmeowbyte.github.io/heretic_git_guidelines "Heretic Git Guidelines").
