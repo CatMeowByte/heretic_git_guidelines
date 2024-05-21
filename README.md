@@ -41,3 +41,9 @@ Or, when the project is barely finished and you've built a lot of things from th
 ## Usage
 
 Mention in the project that it uses Heretic Git Guidelines.
+
+---
+
+This project is licensed under [WTFPL](http://wtfpl.net).
+
+This project follows the [HGG](https://catmeowbyte.github.io/heretic_git_guidelines).
